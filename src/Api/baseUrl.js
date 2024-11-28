@@ -4,7 +4,7 @@ import Cookies from "js-cookie";
 
 //export const baseurl='http://localhost:8000/api/v1'
 
-export const baseurl='https://backendcan.broodingweb.com/api/v1'
+export const baseurl='https://demo.welcometocan.com/api/v1'
 //export const baseurl='http://3.111.30.189/api/v1'
 
 
